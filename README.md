@@ -2,6 +2,9 @@
 
 Welcome to the Rise Stock Market Investment. This is a simple command-line interface (CLI) application built using Node.js and TypeScript that simulating stock market investments. The program allows users to choose a stock market and invest money, with the possibility of gaining or losing a random percentage of their investment.
 
+To use My Rise Stock Market Investment App from the command line, simply run: 
+npx rise-stock-market-investment-app
+
 ## Features
 
 1. **Minimum Investment:** The minimum investment amount is set at 50000 units of currency.

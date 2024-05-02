@@ -1,0 +1,19 @@
+{
+  "name": "rise-stock-market-investment-app",
+  "version": "1.0.1",
+  "description": "",
+  "main": "stock-market-app.js",
+  "type": "module",
+  "bin": "stock-market-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fazilat Jahan",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
